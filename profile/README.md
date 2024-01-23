@@ -4,10 +4,6 @@
   <h1>Neuropolis</h1>
   <p><i>Innovating and Collaborating at the Edge of Technology</i></p>
 
-  <!-- Replace these with the actual URLs of your badges -->
-  ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-  ![Coverage](https://img.shields.io/badge/coverage-80%25-green)
-  ![License](https://img.shields.io/badge/license-MIT-blue)
 
   <hr>
 
