@@ -16,19 +16,6 @@
 ## Our Mission
 Neuropolis aims to lead in the AI domain by delivering exceptional technology solutions that enhance human and machine interaction, enabling a smarter, more connected world.
 
-## Our Projects
-We invite you to explore our projects and contribute:
-
-- **NeuroLang**: An advanced language model for next-generation communication.
-- **VisionAI**: Pioneering image processing techniques for digital insights.
-- **SmartNLP**: Leveraging natural language for smarter applications.
-
-## Get Involved
-Are you passionate about AI? Do you want to contribute to cutting-edge technology? Join us:
-
-- **Contribute**: Check our [Contribution Guidelines](#).
-- **Discuss**: Join our discussions [here](#).
-- **Follow**: Stay updated with our latest advancements.
 
 <div align="center">
   <p>For collaboration and inquiries, email us at: <a href="mailto:hello@neuropolis.io">hello@neuropolis.io</a></p>
